@@ -1,5 +1,10 @@
 # 💫 About Me:
 I am BE garduvating student..<br>
+I am a student who is learning computer programming and basic software skills. Currently, I am practicing C programming and improving my coding knowledge through small programs and exercises.
+
+I use GitHub to store my projects, track my learning progress, and explore code from others. I am interested in learning new technologies and developing my problem-solving skills.
+
+My goal is to become a good software developer and build useful applications in the future.
 
 
 ## 🌐 Socials:
